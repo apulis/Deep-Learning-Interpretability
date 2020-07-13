@@ -103,11 +103,11 @@
 |2018|arxiv|[Revisiting the importance of individual units in cnns via ablation](https://arxiv.org/pdf/1806.02891.pdf)|33|||
 |2018|arxiv|[Computationally Efficient Measures of Internal Neuron Importance](https://arxiv.org/pdf/1807.09946.pdf)|1|||
 |2017|ICML|[Understanding Black-box Predictions via Influence Functions](https://dm-gatech.github.io/CS8803-Fall2018-DML-Papers/influence-functions.pdf)|641|[Pytorch](https://github.com/nimarb/pytorch_influence_functions)||
-|2017|ICML|[Axiomatic attribution for deep networks](https://mit6874.github.io/assets/misc/sundararajan.pdf)|623|[Keras](https://github.com/hiranumn/IntegratedGradients)||
+|2017|ICML|[Axiomatic attribution for deep networks](https://mit6874.github.io/assets/misc/sundararajan.pdf)|623|[Keras](https://github.com/hiranumn/IntegratedGradients)|:heavy_check_mark:|
 |2017|ICML|[Learning Important Features Through Propagating Activation Differences](https://mit6874.github.io/assets/misc/shrikumar.pdf)|531|||
 |2017|ICLR|[Visualizing deep neural network decisions: Prediction difference analysis](https://arxiv.org/pdf/1702.04595.pdf)|241|[Caffe](https://github.com/lmzintgraf/DeepVis-PredDiff)||
 |2017|ICLR|[Exploring LOTS in Deep Neural Networks](https://openreview.net/pdf?id=SkCILwqex)|26|||
-|2017|NeurIPS|[A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)|1036|||
+|2017|NeurIPS|[A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)|1036||:heavy_check_mark:|
 |2017|NeurIPS|[Real time image saliency for black box classifiers](https://papers.nips.cc/paper/7272-real-time-image-saliency-for-black-box-classifiers.pdf)|141|[Pytorch](https://github.com/karanchahal/SaliencyMapper)||
 |2017|NeurIPS|[SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability](http://papers.nips.cc/paper/7188-svcca-singular-vector-canonical-correlation-analysis-for-deep-learning-dynamics-and-interpretability.pdf)|131|||
 |2017|CVPR|[Mining Object Parts from CNNs via Active Question-Answering](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Mining_Object_Parts_CVPR_2017_paper.pdf)|17|||
@@ -133,7 +133,7 @@
 |2017|arxiv|[Interpretable & explorable approximations of black box models](https://arxiv.org/pdf/1707.01154.pdf)|97|||
 |2017|arxiv|[Distilling a neural network into a soft decision tree](https://arxiv.org/pdf/1711.09784.pdf)|162|[Pytorch](https://github.com/kimhc6028/soft-decision-tree)||
 |2017|arxiv|[Towards interpretable deep neural networks by leveraging adversarial examples](https://arxiv.org/pdf/1708.05493.pdf)|54|||
-|2017|arxiv|[Explainable artificial intelligence: Understanding, visualizing and interpreting deep learning models](https://arxiv.org/pdf/1708.08296.pdf)|319|||
+|2017|arxiv|[Explainable artificial intelligence: Understanding, visualizing and interpreting deep learning models](https://arxiv.org/pdf/1708.08296.pdf)|319||:heavy_check_mark:|
 |2017|arxiv|[Contextual Explanation Networks](https://arxiv.org/pdf/1705.10301.pdf)|32|[Pytorch](https://github.com/alshedivat/cen)||
 |2017|arxiv|[Challenges for transparency](https://arxiv.org/pdf/1708.01870.pdf)|75|||
 |2017|ACMSOPP|[Deepxplore: Automated whitebox testing of deep learning systems](https://machine-learning-and-security.github.io/papers/mlsec17_paper_1.pdf)|384|||
@@ -161,13 +161,14 @@
 |2016|arxiv|[Attentive Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/pdf/1612.04757)|47|||
 |2016|arxiv|[The Mythos of Model Interpretability](http://www.zacklipton.com/media/papers/mythos_model_interpretability_lipton2016.pdf)|1177|||
 |2016|arxiv|[Multifaceted feature visualization: Uncovering the different types of features learned by each neuron in deep neural networks](https://arxiv.org/pdf/1602.03616)|144|||
-|2015|ICLR|[Striving for Simplicity: The All Convolutional Net](https://arxiv.org/pdf/1412.6806.pdf)|2080|[Pytorch](https://github.com/StefOe/all-conv-pytorch)||
+|2015|ICLR|**Guided Backprop**: [Striving for Simplicity: The All Convolutional Net](https://arxiv.org/pdf/1412.6806.pdf)|2080|[Pytorch](https://github.com/StefOe/all-conv-pytorch)|:star:|
 |2015|CVPR|[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)|1046|[Matlab](https://github.com/aravindhm/deep-goggle)||
 |2015|ICCV|[Understanding deep features with computer-generated imagery](http://openaccess.thecvf.com/content_iccv_2015/papers/Aubry_Understanding_Deep_Features_ICCV_2015_paper.pdf)|103|[Caffe](https://github.com/mathieuaubry/features_analysis)||
 |2015|ICML Workshop|[Understanding Neural Networks Through Deep Visualization](https://arxiv.org/pdf/1506.06579.pdf;)|1114|[T.F.](https://github.com/jiye-ML/Visualizing-and-Understanding-Convolutional-Networks)||
 |2015|AAS|[Interpretable classifiers using rules and Bayesian analysis: Building a better stroke prediction model](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1446488742)|331|||
-|2014|ECCV|[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)|9168|[Pytorch](https://github.com/huybery/VisualizingCNN)||
-|2014|ICLR|[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf,)|2399|[Pytorch](https://github.com/huanghao-code/VisCNN_ICLR_2014_Saliency)||
+|2015|PLOS|On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation|1029||:star:|
+|2014|ECCV|[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)|9168|[Pytorch](https://github.com/huybery/VisualizingCNN)|:star:|
+|2014|ICLR|[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf,)|2399|[Pytorch](https://github.com/huanghao-code/VisCNN_ICLR_2014_Saliency)|:star:|
 |2013|ICCV|[Hoggles: Visualizing object detection features](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Vondrick_HOGgles_Visualizing_Object_2013_ICCV_paper.pdf)|293|||
 
 \* [Paper list sorted by number of citation ](./sort_cite.md)
