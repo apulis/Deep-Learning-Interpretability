@@ -181,9 +181,9 @@
 |      |       | *Bolei Zhou*: Exploring and Exploiting Interpretable Semantics in GANs | [video](https://youtu.be/rfx3whKgFVo), [slide](https://interpretablevision.github.io/slide/cvpr20_bolei.pdf) | :heavy_check_mark: |
 |      |       | *Ruth C. Fong*: Understanding Deep Neural Networks           | [video](https://youtu.be/YrlWq0oFZ50), [slide](https://interpretablevision.github.io/slide/cvpr20_ruth.pdf) | :heavy_check_mark: |
 |      |       | *Christopher Olah*: Introduction to Circuits in CNNs.        | [video](https://youtu.be/gXsKyZ_Y_i8), [slide](https://interpretablevision.github.io/slide/cvpr20_chris.pdf) |                    |
-|      |       |                                                              |                                                              |                    |
+| 2019 | CVPR  | [Interpretable Machine Learning for Computer Vision](https://interpretablevision.github.io/index_iccv2019.html) |                                                              |                    |
 | 2019 | Valse | *Bolei Zhou, Quanshi Zhang*: 20190116-03 可解释性AI专题      | [video](https://www.bilibili.com/video/av78942754/)          | :heavy_check_mark: |
-|      |       |                                                              |                                                              |                    |
+| 2018 | CVPR  | [Interpretable Machine Learning for Computer Vision](https://interpretablevision.github.io/index_iccv2018.html) |                                                              |                    |
 |      |       |                                                              |                                                              |                    |
 |      |       |                                                              |                                                              |                    |
 
