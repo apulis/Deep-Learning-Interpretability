@@ -95,8 +95,8 @@
 |2018|DSP|[Methods for interpreting and understanding deep neural networks](http://iphome.hhi.de/samek/pdf/MonDSP18.pdf)|617|||
 |2018|Access|[Peeking inside the black-box: A survey on Explainable Artificial Intelligence (XAI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8466590)|279|||
 |2018|JAIR|[Learning Explanatory Rules from Noisy Data](https://www.ijcai.org/Proceedings/2018/0792.pdf)|127|[T.F.](https://github.com/ai-systems/DILP-Core)||
-|2018|MIPRO|[Explainable artificial intelligence: A survey](https://www.researchgate.net/profile/Mario_Brcic/publication/325398586_Explainable_Artificial_Intelligence_A_Survey/links/5b0bec90a6fdcc8c2534d673/Explainable-Artificial-Intelligence-A-Survey.pdf)|92|||
-|2018|BMVC|[Rise: Randomized input sampling for explanation of black-box models](https://arxiv.org/pdf/1806.07421.pdf)|62|||
+|2018|MIPRO|[Explainable artificial intelligence: A survey](https://www.researchgate.net/profile/Mario_Brcic/publication/325398586_Explainable_Artificial_Intelligence_A_Survey/links/5b0bec90a6fdcc8c2534d673/Explainable-Artificial-Intelligence-A-Survey.pdf)|92||                    |
+|2018|BMVC|[Rise: Randomized input sampling for explanation of black-box models](https://arxiv.org/pdf/1806.07421.pdf)|78|[Keras](https://github.com/eclique/RISE)|:heavy_check_mark:|
 |2018|arxiv|[Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/pdf/1710.06169.pdf)|25|||
 |2018|arxiv|[Manipulating and measuring model interpretability](https://arxiv.org/pdf/1802.07810.pdf)|106|||
 |2018|arxiv|[How convolutional neural network see the world-A survey of convolutional neural network visualization methods](https://arxiv.org/pdf/1804.11191.pdf)|36|||
@@ -151,7 +151,7 @@
 |2016|EMNLP|[Rationalizing Neural Predictions](https://arxiv.org/pdf/1606.04155)|288|[Pytorch](https://github.com/zhaopku/Rationale-Torch)||
 |2016|IJCV|[Visualizing deep convolutional neural networks using natural pre-images](https://arxiv.org/pdf/1512.02017)|254|[Matlab](https://github.com/aravindhm/nnpreimage)||
 |2016|IJCV|[Visualizing Object Detection Features](https://arxiv.org/pdf/1502.05461.pdf)|25|[Caffe](https://github.com/cvondrick/ihog)||
-|2016|KDD|[Why should i trust you?: Explaining the predictions of any classifier](https://chu-data-lab.github.io/CS8803Fall2018/CS8803-Fall2018-DML-Papers/lime.pdf)|2984|||
+|2016|KDD|[Why should i trust you?: Explaining the predictions of any classifier](https://chu-data-lab.github.io/CS8803Fall2018/CS8803-Fall2018-DML-Papers/lime.pdf)|3358|[GitHub](https://github.com/marcotcr/lime)|:heavy_check_mark:|
 |2016|TVCG|[Visualizing the hidden activity of artificial neural networks](https://www.researchgate.net/profile/Samuel_Fadel/publication/306049229_Visualizing_the_Hidden_Activity_of_Artificial_Neural_Networks/links/5b13ffa7aca2723d9980083c/Visualizing-the-Hidden-Activity-of-Artificial-Neural-Networks.pdf)|152|||
 |2016|TVCG|[Towards better analysis of deep convolutional neural networks](https://arxiv.org/pdf/1604.07043.pdf)|225|||
 |2016|NAACL|[Visualizing and understanding neural models in nlp](https://arxiv.org/pdf/1506.01066)|306|[Torch](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)||
@@ -184,6 +184,7 @@
 |      |       | *Christopher Olah*: Introduction to Circuits in CNNs.        | [video](https://youtu.be/gXsKyZ_Y_i8), [slide](https://interpretablevision.github.io/slide/cvpr20_chris.pdf) |                    |
 | 2019 | CVPR  | [Interpretable Machine Learning for Computer Vision](https://interpretablevision.github.io/index_iccv2019.html) |                                                              |                    |
 | 2019 | Valse | *Bolei Zhou, Quanshi Zhang*: 20190116-03 可解释性AI专题      | [video](https://www.bilibili.com/video/av78942754/)          | :heavy_check_mark: |
+| 2019 | -     | Hung-Yi Lee, Explainable ML                                  | [video](https://www.youtube.com/watch?v=lnjrn3bF9lA)         |                    |
 | 2018 | CVPR  | [Interpretable Machine Learning for Computer Vision](https://interpretablevision.github.io/index_iccv2018.html) |                                                              |                    |
 |      |       |                                                              |                                                              |                    |
 |      |       |                                                              |                                                              |                    |
